@@ -1,0 +1,15 @@
+#then {
+  border: 2px solid red;
+  padding: 15px;
+}
+
+#now {
+  border: 2px solid green;
+  padding: 15px;
+}
+
+.pic {
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+}
